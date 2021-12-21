@@ -15,18 +15,11 @@ const Header = ({ data }) => {
             occupation: data.occupation,
             city: data.city,
             description: data.description,
-            networks: data.networks
+            networks: data.social.map(function (network) {
+                return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+            })
         }
     }
-
-
-    // const { name, occupation, description, city, networks } = data;
-    // const { data } = props.data;
-
-    // 
-    // console.log('name', name);
-
-    // if (!(data)) return null;
 
     return (
         <header id="home">
@@ -49,9 +42,9 @@ const Header = ({ data }) => {
                     <h1 className="responsive-headline">I'm {main.name}.</h1>
                     <h3>I'm a {main.city} based <span>{main.occupation}</span>. {main.description}.</h3>
                     <hr />
-                    {/* <ul className="social">
-                                {networks}
-                            </ul> */}
+                    <ul className="social">
+                        {main.networks}
+                    </ul>
                 </div>
             </div>
 

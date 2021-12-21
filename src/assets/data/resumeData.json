@@ -3,7 +3,7 @@
     "name": "Juan Martínez",
     "occupation": "ReactJS Developer",
     "description": "Full Stack React Developer by Day",
-    "image": "IG_Sonny.jpeg",
+    "image": "profile-pic.png",
     "bio": "My name is Juan José, I'm a Full Stack ReactJS Developer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "juanjmm@gmail.com",
@@ -43,7 +43,7 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
+        "school": "Mariano Galvez University",
         "degree": "Masters in Advanced Computer Science",
         "graduated": "January 2017",
         "description": "Graduated with Distinction"

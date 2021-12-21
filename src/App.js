@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import Header from './Components/Header';
+import About from './Components/About';
+import Resume from './Components/Resume';
 import axios from 'axios';
 
 function App() {
@@ -25,7 +27,8 @@ function App() {
   return (
     <div className="App">
       <Header data={resumeData.main} />
-      <About />
+      <About data={resumeData.main} />
+      <Resume data={resumeData.resume} />
     </div>
   );
 }
