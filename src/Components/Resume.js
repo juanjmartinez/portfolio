@@ -8,7 +8,7 @@ let resume = {
 }
 
 const Resume = ({ data }) => {
-    console.log('data', data);
+
     if (data) {
         resume = {
             skillmessage: data.skillmessage,

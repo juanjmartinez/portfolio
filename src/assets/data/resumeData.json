@@ -40,26 +40,26 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Software Developer with 10+ years of experience developing web applications, In my career i have worked with the following programming languages, libraries and frameworks",
     "education": [
       {
-        "school": "Mariano Galvez University",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Mariano Galves University",
+        "degree": "",
+        "graduated": "",
+        "description": "3rd year completed in the Systems Engineering Career."
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
+        "company": "Ericsson de Guatemala",
+        "title": "IT Engineer/Tester",
+        "years": "Octuber 2018 - Present",
         "description": "Teaching ReactJS to thousands of students."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
+        "company": "Banco Agromercantil",
+        "title": "Programmer Analyst III",
+        "years": "February 2010 - December 2017",
         "description": "Building MrQ, a gambling website."
       }
     ],
@@ -69,20 +69,44 @@
         "level": "90%"
       },
       {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "60%"
+      },
+      {
         "name": "CSS",
-        "level": "95%"
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
       },
       {
         "name": "Git",
         "level": "70%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "c#",
+        "level": "60%"
       },
       {
-        "name": "HTML5",
-        "level": "90%"
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "SQL Server",
+        "level": "80%"
+      },
+      {
+        "name": "Oracle",
+        "level": "70%"
+      },
+      {
+        "name": "Sybase",
+        "level": "70%"
       },
       {
         "name": "Firebase",
@@ -93,32 +117,14 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "MiShop",
+        "category": "Ecommerce Site for the sale of technological products.",
+        "image": "mishop.png",
+        "url": "https://www.mishop.gt"
       },
       {
         "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "category": "Netflix Clone built with ReactJS and Javascript",
         "image": "netflix-clone.jpeg",
         "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
       }

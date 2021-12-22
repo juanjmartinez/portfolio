@@ -44,22 +44,22 @@
     "education": [
       {
         "school": "Mariano Galves University",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "degree": "",
+        "graduated": "",
+        "description": "3rd year completed in the Systems Engineering Career."
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
+        "company": "Ericsson de Guatemala",
+        "title": "IT Engineer/Tester",
+        "years": "Octuber 2018 - Present",
         "description": "Teaching ReactJS to thousands of students."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
+        "company": "Banco Agromercantil",
+        "title": "Programmer Analyst III",
+        "years": "February 2010 - December 2017",
         "description": "Building MrQ, a gambling website."
       }
     ],
@@ -117,32 +117,14 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "MiShop",
+        "category": "Ecommerce Site for the sale of technological products.",
+        "image": "mishop.png",
+        "url": "https://www.mishop.gt"
       },
       {
         "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "category": "Netflix Clone built with ReactJS and Javascript",
         "image": "netflix-clone.jpeg",
         "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
       }
