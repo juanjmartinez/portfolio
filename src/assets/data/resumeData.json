@@ -43,7 +43,7 @@
     "skillmessage": "Software Developer with 10+ years of experience developing web applications, In my career i have worked with the following programming languages, libraries and frameworks",
     "education": [
       {
-        "school": "Mariano Galves University",
+        "school": "Mariano Galvez University",
         "degree": "",
         "graduated": "",
         "description": "3rd year completed in the Systems Engineering Career."
@@ -54,13 +54,13 @@
         "company": "Ericsson de Guatemala",
         "title": "IT Engineer/Tester",
         "years": "Octuber 2018 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "description": "Application developer using languages, framewors and libraries such as JavaScript, React, Angular, Java."
       },
       {
         "company": "Banco Agromercantil",
         "title": "Programmer Analyst III",
         "years": "February 2010 - December 2017",
-        "description": "Building MrQ, a gambling website."
+        "description": "Developer in charge of maintaining core banking services and supporting analysts I and II."
       }
     ],
     "skills": [
@@ -85,32 +85,20 @@
         "level": "100%"
       },
       {
+        "name": "Angular",
+        "level": "70%"
+      },
+      {
         "name": "Git",
         "level": "70%"
       },
       {
-        "name": "c#",
+        "name": "C#",
         "level": "60%"
       },
       {
         "name": "Java",
         "level": "60%"
-      },
-      {
-        "name": "SQL Server",
-        "level": "80%"
-      },
-      {
-        "name": "Oracle",
-        "level": "70%"
-      },
-      {
-        "name": "Sybase",
-        "level": "70%"
-      },
-      {
-        "name": "Firebase",
-        "level": "80%"
       }
     ]
   },
