@@ -37,12 +37,18 @@ const About = ({ data }) => {
                 </div>
                 <div className="nine columns main-col">
 
-                    <h2>About Me</h2>
+                    <h2 style={{textAlign: 'center'}}>About Me</h2>
 
                     <p className='address'>{main.bio}</p>
 
+                    <div className="columns download">
+                            <p>
+                                <a href="data/Juan_Jose_Martinez.pdf" className="button" target="_blank"><i className="fa fa-download"></i>Download Resume</a>
+                            </p>
+                        </div>
+
                     <div className="row">
-                        <div className="columns contact-details">
+                        <div className="columns contact-details" style={{textAlign: 'left'}}>
                             <h2>Contact Details</h2>
                             <p className="address">
                                 <span>{main.name}</span><br />
@@ -53,11 +59,7 @@ const About = ({ data }) => {
                                 <span>{main.email}</span>
                             </p>
                         </div>
-                        <div className="columns download">
-                            <p>
-                                <a href={main.resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
-                            </p>
-                        </div>
+                       
                     </div>
                 </div>
             </div>

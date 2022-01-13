@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Juan Martínez",
-    "occupation": "ReactJS Developer",
-    "description": "Full Stack React Developer by Day",
+    "occupation": "Software Developer",
+    "description": "| React | Javascript | HTML/CSS3 |",
     "image": "profile-picture.png",
-    "bio": "My name is Juan José, I'm a Full Stack ReactJS Developer.",
+    "bio": "My name is Juan José, I'm a Software Developer, + 10 years of experience, React, JavaScript, HTML/CSS3",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "juanjmm@gmail.com",
     "phone": "+502 40916176",
@@ -14,8 +14,8 @@
       "state": "Guatemala",
       "zip": "01016"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.juanjose-martinez.com",
+    "resumedownload": "Juan_Jose_Martinez.pdf",
     "social": [
       {
         "name": "facebook",

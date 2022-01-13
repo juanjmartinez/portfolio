@@ -40,7 +40,7 @@ const Header = ({ data }) => {
             <div className="row banner">
                 <div className="banner-text">
                     <h1 className="responsive-headline">I'm {main.name}.</h1>
-                    <h3>I'm a {main.city} based <span>{main.occupation}</span>. {main.description}.</h3>
+                    <h3>I'm a <span>{main.occupation}</span>. {main.description}.</h3>
                     <hr />
                     <ul className="social">
                         {main.networks}
