@@ -51,6 +51,12 @@
     ],
     "work": [
       {
+        "company": "Runway Health",
+        "title": "Full Stack Engineer",
+        "years": "February 2022 - August 2022",
+        "description": "Full Stack developer using languages, framewors and libraries such as JavaScript, React, Typescript, Node JS."
+      },
+      {
         "company": "Ericsson de Guatemala",
         "title": "IT Engineer/Tester",
         "years": "Octuber 2018 - Present",
@@ -74,7 +80,7 @@
       },
       {
         "name": "NodeJS",
-        "level": "60%"
+        "level": "75%"
       },
       {
         "name": "CSS",
@@ -85,11 +91,11 @@
         "level": "100%"
       },
       {
-        "name": "Angular",
-        "level": "70%"
+        "name": "Git",
+        "level": "90%"
       },
       {
-        "name": "Git",
+        "name": "Angular",
         "level": "70%"
       },
       {
@@ -109,6 +115,12 @@
         "category": "Ecommerce Site for the sale of technological products.",
         "image": "mishop.png",
         "url": "https://www.mishop.gt"
+      },
+      {
+        "title": "Katharos Clinicas",
+        "category": "Patient management system and tele-medicine.",
+        "image": "Katharos.png",
+        "url": "https://www.katharosclinicas.com"
       },
       {
         "title": "Netflix Clone",
